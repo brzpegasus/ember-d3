@@ -4,6 +4,7 @@ This Ember Addon acts as a loader for consuming [D3.js](https://github.com/mbost
 
 ```bash
 ember install ember-d3
+npm install d3 --save
 ```
 
 **Requirements:**
